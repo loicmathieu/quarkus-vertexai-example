@@ -56,3 +56,7 @@ If you want to learn more about building native executables, please consult <htt
 ## Related Guides
 
 - Google Cloud Vertex AI ([guide](https://quarkiverse.github.io/quarkiverse-docs/quarkus-google-cloud-services/main/vertexai.html)): Use Google Cloud Vertex AI service
+
+## Resources
+
+- [Creating a chatbot with Google Gemini Vertex AI and Quarkus](https://www.loicmathieu.fr/wordpress/en/informatique/creer-un-chatbot-avec-google-gemini-vertex-ai-et-quarkus/)
